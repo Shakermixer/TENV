@@ -1,2 +1,2 @@
-# TENV
-an effort to build a coding environment in a self hosted html file based on TiddlyWiki
+# My NFT 
+a self hosting nft forge with svg and spawn and hack the running souce
